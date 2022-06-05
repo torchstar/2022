@@ -1,0 +1,9 @@
+工厂模式  BeanFactory
+装饰器模式  BeanWrapper
+代理模式    AopProxy
+单例模式    ApplicationnContext
+委派模式    DispatcherServlet
+策略模式    HandlerMapping
+适配器模式  HandlerApdapter
+模板方法模式 JdbcTemplate
+观察者模式  ContextLoaderListener
